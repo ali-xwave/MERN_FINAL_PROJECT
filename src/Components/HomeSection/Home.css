@@ -1,0 +1,29 @@
+.bg {
+    background-image: url('../../Images/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 89vh;
+    width: 98vw;
+  }
+
+  .title{
+    background: rgba(0, 0, 0, 0.5);
+    width: 99vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  @media (max-width: 576px) {
+    .bg {
+      background-size: contain;  /* Adjust this based on your requirements */
+      height: 30vh;
+    }
+    .title{
+      height: 30vh;
+
+    }
+  }
+  

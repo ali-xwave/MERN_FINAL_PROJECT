@@ -1,0 +1,6 @@
+export {default as HomeElement} from "./HomeElement"
+export {default as CoursesElement} from "./CoursesElement"
+export {default as LoginElement} from "./LoginElement"
+export {default as RegisterElement} from "./RegisterElement"
+export {default as TeacherElement} from "./TeacherElement"
+export {default as AddmissionElement} from "./AddmissionElement"

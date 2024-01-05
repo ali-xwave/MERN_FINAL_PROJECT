@@ -1,0 +1,6 @@
+export {default as HomeFeature} from "./HomeFeature"
+export {default as CoursesFeature} from "./CoursesFeature"
+export {default as LoginFeature} from "./LoginFeature"
+export {default as RegisterFeature} from "./RegisterFeature"
+export {default as TeacherFeature} from "./TeacherFeature"
+export {default as AddmissionFeature} from "./AddmissionFeature"

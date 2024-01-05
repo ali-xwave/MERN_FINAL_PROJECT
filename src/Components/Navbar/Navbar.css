@@ -1,0 +1,26 @@
+.nav-padding{
+    padding-left: 42rem;
+}
+@media(max-width: 576px){
+    .nav-padding{
+        padding: 0;
+    }
+}
+
+@media(min-width: 577px) and (max-width : 768px){
+    .nav-padding{
+        padding: 0;
+    }
+}
+
+@media(min-width: 769px) and (max-width : 992px){
+    .nav-padding{
+        padding: 0;
+    }
+}
+
+@media(min-width: 993px) and (max-width : 1150px){
+    .nav-padding{
+        padding: 0 0 0 32rem;
+    }
+}
